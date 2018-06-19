@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ,ID,Type,Date,Time,Source,Latitude,Longitude
 0,5D39700,Multiple_Gunshots,2014-01-01,00:00:02,WashingtonDC5D,38.917,-77.012
 1,5D39701,Multiple_Gunshots,2014-01-01,00:00:06,WashingtonDC5D,38.917,-77.002
@@ -9636,3 +9637,8 @@
 9634,1D64870,Multiple_Gunshots,2014-12-31,23:59:55,WashingtonDC1D,38.906,-76.982
 9635,7D159679,Single_Gunshot,2014-12-31,23:59:57,WashingtonDC7D,38.834,-76.993
 9636,5D47887,Multiple_Gunshots,2014-12-31,23:59:57,WashingtonDC5D,38.912,-76.984
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:44a82e81a2e74faaa5ccdd2ecec440de83da40a8a7630978c2bce1f438f73322
+size 2286657
+>>>>>>> 2a4017a3e518b9ff56e4c644359aa8aba29ee8dd

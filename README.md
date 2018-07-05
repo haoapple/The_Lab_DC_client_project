@@ -1,6 +1,16 @@
 # The_Lab_DC_client_project
 A team repo to client project with The Lab @ DC (GA-DSI)
 
+# Table of Contents
+### 01.Data.ipynb - Read in all outside details, data sets are large
+### 02.EDA.ipynb - Basic Breakdown and view of the datasets
+### 03.Feature Engineering.ipynb - Preparing data for modeling
+### 04.Modeling.ipynb - Classification and regression modeling
+### 05.Graphs.ipynb - Few random graphs to show a little bit more information
+### 98.Housing_dataset.ipynb - Future data that we hope to break down
+### Assets - Contains data once first notebook is run
+### Archive - Old notebooks
+
 # Settings
   1) Make sure you have `.gitignore` in your local repo by adding this line: `assets/csr/*`
   2) Make sure you install and track Git Large File Storage(read more: https://git-lfs.github.com)

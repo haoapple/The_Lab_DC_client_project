@@ -2,6 +2,8 @@
 A team repo to client project with The Lab @ DC (GA-DSI)
 
 # Table of Contents
+### 00.Executive Summary - Predicting Shots.pdf
+### 00.The Lab DC - Consulting proposal.pdf - Slide deck the team presented to the client
 ### 01.Data.ipynb - Read in all outside details, data sets are large
 ### 02.EDA.ipynb - Basic Breakdown and view of the datasets
 ### 03.Feature Engineering.ipynb - Preparing data for modeling
